@@ -1,0 +1,15 @@
+body {
+	padding: 20px;
+	font-family: sans-serif;
+}
+
+
+div {
+	width: 100px;
+	height: 80px;
+	background: yellow;
+	border: 2px solid red;
+	float:left;
+	margin: 20px;
+	text-align: center;
+}
